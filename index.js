@@ -1,5 +1,3 @@
-//13_01
-
 alert("Training and practice purpose only")
 
 for (var i = 0; i < document.querySelectorAll(".drum").length; i++) {
@@ -59,8 +57,3 @@ function buttonAnimation(currentkey){
     activeButton.classList.remove("pressed");
   },200)
 }
-
-//   console.log(this.innerHTML);
-
-// var audio = new Audio("./sounds/tom-1.mp3");
-// audio.play();
